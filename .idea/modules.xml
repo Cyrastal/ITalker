@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ITalker.iml" filepath="$PROJECT_DIR$/ITalker.iml" group="ITalker" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ITalker/app" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" group="ITalker/common" />
+      <module fileurl="file://$PROJECT_DIR$/face-res/face-res.iml" filepath="$PROJECT_DIR$/face-res/face-res.iml" group="ITalker/face-res" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" group="ITalker/factory" />
+      <module fileurl="file://$PROJECT_DIR$/lang/lang.iml" filepath="$PROJECT_DIR$/lang/lang.iml" group="ITalker/lang" />
+    </modules>
+  </component>
+</project>
